@@ -3,4 +3,4 @@
 README Updated By AYUSH BK GAUTAM For The Intent Of Collaboration
 
 
-Remote cahnge mady by yuvraj.
+Remote change mady by yuvraj.
